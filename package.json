@@ -1,0 +1,13 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "**Esercizio** 1. Creiamo la prima applicazione con NodeJs e inizializziamola con `npm init`",
+  "main": "app.js",
+  "scripts": {
+   "start": "node app.js",
+   "dev": "node --watch app.js"
+   
+  },
+  "author": "Enrico",
+  "license": "ISC"
+}
